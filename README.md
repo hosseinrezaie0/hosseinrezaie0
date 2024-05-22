@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning and deep leaning
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me:
-- Telegram : Hossein2051
+- Telegram : @Hossein2051
 - Email : hossein.rezaie81@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
